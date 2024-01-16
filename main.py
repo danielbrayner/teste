@@ -325,9 +325,8 @@
 #
 #     lista[j+1] = elemento
 #
-# print(lista)
-
-
+# print(lista)aaaaaaaaaaaa
+print ("ola")
 
 
 
@@ -344,4 +343,6 @@ def insert_sort(lista):
 
 
 lista = [int(i) for i in input().split()]
+
 print(lista)
+print("ola")
